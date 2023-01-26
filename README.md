@@ -104,3 +104,6 @@ Execute the program
 
 # OUPUT
 ![time](timetable.jpeg)
+
+# Result
+The program for creating Slot Timetable is completed successfully.
